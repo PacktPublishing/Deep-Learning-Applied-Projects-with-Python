@@ -1,0 +1,6 @@
+images/
+.idea/
+*.pyc
+*.log
+*.cache*
+main.py
