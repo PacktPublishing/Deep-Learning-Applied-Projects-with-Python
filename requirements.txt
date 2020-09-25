@@ -32,6 +32,6 @@ scikit-image==0.13.1
 scipy==1.1.0
 selenium==3.9.0
 six==1.11.0
-tensorflow==1.1.0
+tensorflow==1.15.4
 urllib3==1.22
 Werkzeug==0.14.1
