@@ -4,7 +4,7 @@ cffi==1.11.5
 chardet==3.0.4
 chromedriver==2.24.1
 chromedriver-installer==0.0.6
-cryptography==2.2.2
+cryptography==3.2
 cycler==0.10.0
 decorator==4.3.0
 h5py==2.7.1
