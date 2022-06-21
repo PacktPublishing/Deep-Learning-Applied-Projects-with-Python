@@ -14,7 +14,7 @@ kiwisolver==1.0.1
 matplotlib==2.2.2
 mock==2.0.0
 networkx==2.1
-numpy==1.14.3
+numpy==1.22.0
 olefile==0.45.1
 pbr==4.0.2
 Pillow==5.1.0
